@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "tailwindcss": "^10.9.2"
+    "tailwindcss": "^4.1.8"
   },
   "description": "",
   "dependencies": {
-    "@tailwindcss/cli": "^10.9.2"
+    "@tailwindcss/cli": "^4.1.8"
   }
 }
