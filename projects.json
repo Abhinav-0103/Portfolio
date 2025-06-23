@@ -1,1 +1,52 @@
-{"Category":{"0":"CATEGORY","1":"CATEGORY","2":"CATEGORY","3":"CATEGORY","4":"CATEGORY","5":"CATEGORY","6":"CATEGORY","7":"CATEGORY"},"Title":{"0":"Titanic Survival Prediction","1":"Image Classifier","2":"Titanic Survival Prediction","3":"Image Classifier","4":"Titanic Survival Prediction","5":"Image Classifier","6":"Titanic Survival Prediction","7":"Image Classifier"},"Description":{"0":"A classification model using logistic regression and XGBoost.","1":"Deep learning CNN model for classifying images using PyTorch.","2":"A classification model using logistic regression and XGBoost.","3":"Deep learning CNN model for classifying images using PyTorch.","4":"A classification model using logistic regression and XGBoost.","5":"Deep learning CNN model for classifying images using PyTorch.","6":"A classification model using logistic regression and XGBoost.","7":"Deep learning CNN model for classifying images using PyTorch."}}
+{
+  "Category": {
+    "0": "CATEGORY",
+    "1": "CATEGORY",
+    "2": "CATEGORY",
+    "3": "CATEGORY",
+    "4": "CATEGORY",
+    "5": "CATEGORY",
+    "6": "CATEGORY",
+    "7": "CATEGORY"
+  },
+  "Title": {
+    "0": "Titanic Survival Prediction",
+    "1": "Image Classifier",
+    "2": "Titanic Survival Prediction",
+    "3": "Image Classifier",
+    "4": "Titanic Survival Prediction",
+    "5": "Image Classifier",
+    "6": "Titanic Survival Prediction",
+    "7": "Image Classifier"
+  },
+  "Description": {
+    "0": "A classification model using logistic regression and XGBoost.",
+    "1": "Deep learning CNN model for classifying images using PyTorch.",
+    "2": "A classification model using logistic regression and XGBoost.",
+    "3": "Deep learning CNN model for classifying images using PyTorch.",
+    "4": "A classification model using logistic regression and XGBoost.",
+    "5": "Deep learning CNN model for classifying images using PyTorch.",
+    "6": "A classification model using logistic regression and XGBoost.",
+    "7": "Deep learning CNN model for classifying images using PyTorch."
+  },
+  "Video": {
+    "0": "1",
+    "1": "2",
+    "2": "3",
+    "3": "1",
+    "4": "2",
+    "5": "3",
+    "6": "1",
+    "7": "2"
+  },
+  "Github": {
+    "0": "https://github.com/Abhinav-0103/mlproject",
+    "1": "https://github.com/Abhinav-0103/mlproject",
+    "2": "https://github.com/Abhinav-0103/mlproject",
+    "3": "https://github.com/Abhinav-0103/mlproject",
+    "4": "https://github.com/Abhinav-0103/mlproject",
+    "5": "https://github.com/Abhinav-0103/mlproject",
+    "6": "https://github.com/Abhinav-0103/mlproject",
+    "7": "https://github.com/Abhinav-0103/mlproject"
+  }
+}

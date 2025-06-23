@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Portfolio</title>
+  <link href="{{ url_for('static', filename='css/output.css') }}" rel="stylesheet">
+</head>
+<body class="scroll-smooth">
+
+  {% include 'components/navbar.html' %}
+
+  <main>
+    <div id="videoModal" class="fixed inset-0 flex items-center justify-center">
+      <div class="relative w-[90vw] max-w-[960px] aspect-video p-4">
+        <div class="relative w-full h-full">
+          <video id="videoPlayer" controls autoplay class="absolute top-0 left-0 w-full h-full rounded">
+            <source src="{{ url_for('static', filename='videos/' ~ video ~ '.mp4') }}" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  {% include 'components/footer.html' %}
+
+</body>
+</html>

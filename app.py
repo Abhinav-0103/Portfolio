@@ -21,6 +21,12 @@ def contact():
         log_to_excel(email, message)
         flash('Message sent successfully!')
         return redirect(url_for('home'))
+    
+@app.route("/project", methods=["Get"])
+def project() :
+    if request.method == "GET" :
+        video = request.args.get("video")
+        return render_template("projectVideo.html", video=video)
 
 if __name__ == '__main__':
     app.run(debug=True)
