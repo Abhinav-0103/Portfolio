@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 portfolio/
+node_modules/
 build/
 develop-eggs/
 dist/
