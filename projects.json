@@ -1,52 +1,44 @@
 {
   "Category": {
-    "0": "CATEGORY",
-    "1": "CATEGORY",
-    "2": "CATEGORY",
-    "3": "CATEGORY",
-    "4": "CATEGORY",
-    "5": "CATEGORY",
-    "6": "CATEGORY",
-    "7": "CATEGORY"
+    "0": "Machine Learning",
+    "1": "Natural Language Processing",
+    "2": "Computer Vision",
+    "3": "Web Development"
   },
   "Title": {
-    "0": "Titanic Survival Prediction",
-    "1": "Image Classifier",
-    "2": "Titanic Survival Prediction",
-    "3": "Image Classifier",
-    "4": "Titanic Survival Prediction",
-    "5": "Image Classifier",
-    "6": "Titanic Survival Prediction",
-    "7": "Image Classifier"
+    "0": "E D A Portfolio",
+    "1": " W.E.N.S.A ",
+    "2": "Image Super Resolution",
+    "3": "WanderLust"
   },
   "Description": {
-    "0": "A classification model using logistic regression and XGBoost.",
-    "1": "Deep learning CNN model for classifying images using PyTorch.",
-    "2": "A classification model using logistic regression and XGBoost.",
-    "3": "Deep learning CNN model for classifying images using PyTorch.",
-    "4": "A classification model using logistic regression and XGBoost.",
-    "5": "Deep learning CNN model for classifying images using PyTorch.",
-    "6": "A classification model using logistic regression and XGBoost.",
-    "7": "Deep learning CNN model for classifying images using PyTorch."
+    "0": "A curated collection of EDA projects showcasing data cleaning, visualization and insight generation skills.",
+    "1": "An EDA and sentiment analyzer that uncovers message patterns, user activity and emotional tone from WhatsApp chat exports.",
+    "2": "A deep learning project that enhances low-resolution images using ESRGAN architecture augmented with CBAM for improved detail and attention-driven restoration.",
+    "3": "A dynamic full-stack web application built with MongoDB, Express, and Node.js, featuring CRUD functionality and RESTful API integration."
   },
   "Video": {
     "0": "1",
     "1": "2",
-    "2": "3",
-    "3": "1",
-    "4": "2",
-    "5": "3",
-    "6": "1",
-    "7": "2"
+    "2": "3", 
+    "3": "1" 
   },
   "Github": {
-    "0": "https://github.com/Abhinav-0103/mlproject",
-    "1": "https://github.com/Abhinav-0103/mlproject",
-    "2": "https://github.com/Abhinav-0103/mlproject",
-    "3": "https://github.com/Abhinav-0103/mlproject",
-    "4": "https://github.com/Abhinav-0103/mlproject",
-    "5": "https://github.com/Abhinav-0103/mlproject",
-    "6": "https://github.com/Abhinav-0103/mlproject",
-    "7": "https://github.com/Abhinav-0103/mlproject"
+    "0": "https://github.com/Abhinav-0103/EDA-Portfolio",
+    "1": "https://github.com/Abhinav-0103/WENSA-WhatsApp-Emotion-and-Sentiment-Analyzer-Using-LSTM-and-BI-LSTM",
+    "2": "https://github.com/Abhinav-0103/Super-Resolution",
+    "3": "https://github.com/Abhinav-0103/Wanderlust"
+  },
+  "Image": {
+    "0": "eda-portfolio.jpeg",
+    "1": "wensa2.avif",
+    "2": "isr.avif", 
+    "3": "wanderlust.avif" 
+  },
+  "Link": {
+    "0": "https://www.kaggle.com/",
+    "1": "https://www.kaggle.com/",
+    "2": "https://www.kaggle.com/", 
+    "3": "https://www.kaggle.com/" 
   }
 }
